@@ -1,0 +1,16 @@
+# Scala / sbt
+target/
+project/target/
+project/project/target/
+.bsp/
+.bloop/
+.metals/
+.metals.sbt
+.scala-build/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS junk
+.DS_Store
