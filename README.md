@@ -1,4 +1,3 @@
-/*
 # scalacf
 Streaming Arithmetic for Continued Fractions (Gosper / HAKMEM 101B)
 
@@ -207,4 +206,3 @@ Instead of computing approximations and discarding incorrect digits,
 we produce only correct digits — and only when needed.
 
 This project aims to make Gosper smile.
-*/
